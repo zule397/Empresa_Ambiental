@@ -1,2 +1,2 @@
 # Empresa_Ambiental
-Trabajo de Base de Datos Tercer Ciclo Ingeniería de SIstemas
+Trabajo de Base de Datos Tercer Ciclo Ingeniería de Sistemas
